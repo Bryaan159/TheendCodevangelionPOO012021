@@ -14,13 +14,13 @@ namespace example1
             b = Int32.Parse(Console.ReadLine());
             
             //Use of funtion
-            Console.WriteLine($"Adding {a} * {b} equals {AddNumbers(a, b)}");
+            Console.WriteLine($"Adding {a} - {b} equals {AddNumbers(a, b)}");
         }
         //Funtion to evaluate two numbers
         // Change the funtion now to returns a subtraction
         public static int AddNumbers(int a, int b)
         {
-            return a * b;
+            return a -  b;
         }
     }
 }
