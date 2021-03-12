@@ -4,7 +4,7 @@ namespace example1
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int a = 0, b = 0;
             Console.WriteLine("Enter a value for a:");
