@@ -17,9 +17,10 @@ namespace example1
             Console.WriteLine($"Adding {a} + {b} equals {AddNumbers(a, b)}");
         }
         //Funtion to evaluate two numbers
+        // Change the funtion now to returns a subtraction
         public static int AddNumbers(int a, int b)
         {
-            return a+b;
+            return a - b;
         }
     }
 }
