@@ -15,10 +15,16 @@ namespace example1
             
             //Use of funtion
             Console.WriteLine($"Adding {a} + {b} equals {AddNumbers(a, b)}");
+            Console.WriteLine($"Substring {a} - {b} equals {SubsNumbers(a, b)}");
         }
         //Funtion to evaluate two numbers
-        // Change the funtion now to returns a subtraction
         public static int AddNumbers(int a, int b)
+        {
+            return a - b;
+        }
+
+        // Add new funtion  to returns a subtraction
+        public static int SubsNumbers(int a, int b)
         {
             return a - b;
         }
