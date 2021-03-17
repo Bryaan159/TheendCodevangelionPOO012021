@@ -17,6 +17,7 @@ namespace example1
             Console.WriteLine($"Substring {a} - {b} equals {SubsNumbers(a, b)}");
             Console.WriteLine($"Multiply {a} * {b} equals {Multiply(a, b)}");
             
+
         }
         //Funtion to evaluate two numbers
         // Change the funtion now to returns a adding
@@ -31,11 +32,14 @@ namespace example1
         {
             return a * b;
         }
-
-        // Add new funtion  to returns a subtraction
+         // Add new funtion  to returns a subtraction
+        //Funtion to evaluate two numbers
+        // Change the funtion now to returns a subtraction
         public static int SubsNumbers(int a, int b)
         {
-            return a - b;
+            return a -  b;
         }
+
+       
     }
 }

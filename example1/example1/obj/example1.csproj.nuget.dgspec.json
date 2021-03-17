@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grayz\\Desktop\\LabGitHub\\example1\\example1\\example1.csproj": {}
+    "C:\\Users\\grayz\\Desktop\\LabGitHub\\TheendCodevangelionPOO012021\\example1\\example1\\example1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grayz\\Desktop\\LabGitHub\\example1\\example1\\example1.csproj": {
+    "C:\\Users\\grayz\\Desktop\\LabGitHub\\TheendCodevangelionPOO012021\\example1\\example1\\example1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grayz\\Desktop\\LabGitHub\\example1\\example1\\example1.csproj",
+        "projectUniqueName": "C:\\Users\\grayz\\Desktop\\LabGitHub\\TheendCodevangelionPOO012021\\example1\\example1\\example1.csproj",
         "projectName": "example1",
-        "projectPath": "C:\\Users\\grayz\\Desktop\\LabGitHub\\example1\\example1\\example1.csproj",
+        "projectPath": "C:\\Users\\grayz\\Desktop\\LabGitHub\\TheendCodevangelionPOO012021\\example1\\example1\\example1.csproj",
         "packagesPath": "C:\\Users\\grayz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grayz\\Desktop\\LabGitHub\\example1\\example1\\obj\\",
+        "outputPath": "C:\\Users\\grayz\\Desktop\\LabGitHub\\TheendCodevangelionPOO012021\\example1\\example1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grayz\\AppData\\Roaming\\NuGet\\NuGet.Config"
